@@ -12,7 +12,7 @@
 </ul>
 
 <hr>
-<h3>Nota de Versõe</h3>
+<h3>Nota de Versão</h3>
 <ul>
 <li>
     <p>Em breve de Lançamento V_11</p>
