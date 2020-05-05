@@ -15,7 +15,7 @@
 <h3>Nota de Versão</h3>
 <ul>
 <li>
-    <p>Em breve Lançamento Versão V_11</p>
+    <p>Em breve Lançamento da Versão V_11</p>
     <p>Veja em:Em breve</p>
     <hr>
     <p>Versão V_10(Atualmente)</p>
