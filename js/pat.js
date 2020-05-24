@@ -14,3 +14,13 @@ $(document).ready(function($) {
         $('body').css({ marginTop: $('.navbar').height() + 'px' });
     }).trigger('resize');
 });
+
+$(function() {
+    $('[data-toggle="popover"]').popover()
+});
+
+$(function() {
+    $('.ionic').popover({
+        container: 'body'
+    })
+})

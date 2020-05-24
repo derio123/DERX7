@@ -45,3 +45,15 @@
         border-bottom: 3px solid rgb(14, 148, 201);
         margin-bottom: 20px;
     }
+    
+    .fas {
+        color: #ffff00;
+    }
+    
+    #teste {
+        color: #FF4500;
+    }
+    
+    #test2 {
+        color: #ff0000;
+    }
