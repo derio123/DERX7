@@ -1,8 +1,14 @@
 # DERX7
 -Veja as novidades do Portfólio <b>DERX7</b>
+<h2>Tecnologias usadas</h2>
+<label><img src="imgs/html5.png">Html5</label>
+<label><img src="imgs/css3.png">CSS3</label>
+<label>Boostrap</label>
+<label><img src="imgs/js.png">JS</label>
+<label><img src="imgs/jquery.png">JQuery</label>
 
-<img src="imgs/PortfolioAutal.png">
 <h3>Novidades</h3>
+<img src="imgs/PortfolioAutal.png">
 <ul>
 <li>
     <p>Icones do Font Awesome</p>
