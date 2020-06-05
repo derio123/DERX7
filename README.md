@@ -1,7 +1,7 @@
 # DERX7
 -Veja as novidades do Portfólio <b>DERX7</b>
 
-<img src="imgs/githubportfolio.png">
+<img src="/imgs/githubportfolio.png">
 <h3>Novidades</h3>
 <ul>
 <li>
