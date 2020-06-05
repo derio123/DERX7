@@ -1,7 +1,11 @@
 # DERX7
 
 -Veja as novidades do Portfólio <b>DERX7</b>
-
+<p>Meu portfólio feito em Html e Javascript, usando tecnologias modernas utilizadas nos templates da
+ <strong><a href="https://www.w3schools.com/">w3schools</a><strong> e modificado para custimização de 
+ páginas de portfólios.</p>
+<p>As minhas experiencias, alguns dos projetos pessoais, desenvolvidos
+para empresas e todo o processo de formação na graduação.</p>
 <h2>Tecnologias usadas</h2>
 
 <p>
@@ -27,7 +31,10 @@
 <h3>Nota de Versão</h3>
 <ul>
 <li>
-    <p>Em breve Lançamento da Versão V_11(Atualmente)</p>
+    <p>Em breve Lançamento da Versão V_11.2(Atualmente)</p>
+    <p>Veja em:<a href="https://derio123.github.io/DERX7/" target="_blank">DERX7</a></p>
+    <hr>
+    <p>Em breve Lançamento da Versão V_11(anterior 2)</p>
     <p>Veja em:<a href="https://derio123.github.io/DERX7/" target="_blank">DERX7</a></p>
     <hr>
     <p>Versão V_10(Anterior)</p>
