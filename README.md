@@ -4,6 +4,7 @@
 
 <h2>Tecnologias usadas</h2>
 
+<p>
 <fieldset>
     <label><img src="imgs/html5.png"><legend>Html5</legend></label>
 </fieldset>
@@ -15,13 +16,18 @@
 <fieldset>
     <label><img src="imgs/js.png"><legend>JS</legend></label>
 </fieldset>
+</p>
 
+<p>
 <fieldset>
     <label><img src="imgs/jquery.png"><legend>JQuery</legend></label>
 </fieldset>
 <fieldset>
-<label>Boostrap</label>
+    <label>Boostrap</label>
 </fieldset>
+</p>
+
+<hr>
 
 <h3>Novidades</h3>
 <img src="imgs/PortfolioAutal.png">
