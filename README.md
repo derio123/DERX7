@@ -1,11 +1,27 @@
 # DERX7
+
 -Veja as novidades do Portfólio <b>DERX7</b>
+
 <h2>Tecnologias usadas</h2>
-<label><img src="imgs/html5.png">Html5</label>
-<label><img src="imgs/css3.png">CSS3</label>
+
+<fieldset>
+    <label><img src="imgs/html5.png"><legend>Html5</legend></label>
+</fieldset>
+
+<fieldset>
+    <label><img src="imgs/css3.png"><legend>CSS3</legend></label>
+</fieldset>
+
+<fieldset>
+    <label><img src="imgs/js.png"><legend>JS</legend></label>
+</fieldset>
+
+<fieldset>
+    <label><img src="imgs/jquery.png"><legend>JQuery</legend></label>
+</fieldset>
+<fieldset>
 <label>Boostrap</label>
-<label><img src="imgs/js.png">JS</label>
-<label><img src="imgs/jquery.png">JQuery</label>
+</fieldset>
 
 <h3>Novidades</h3>
 <img src="imgs/PortfolioAutal.png">
