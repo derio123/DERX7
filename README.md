@@ -3,8 +3,8 @@
 -Veja as novidades do Portfólio <b>DERX7</b>
 <p>Meu portfólio feito em Html e Javascript, usando tecnologias modernas utilizadas nos templates da
  <strong><a href="https://www.w3schools.com/">w3schools</a><strong> e modificado para custimização de 
- páginas de portfólios.</p>
-<p>Neste portfólio contém minhas experiencias, alguns dos projetos pessoais, desenvolvidos para empresas e todo o processo de formação na graduação.</p>
+ páginas de portfólios.Neste portfólio contém minhas experiencias, alguns dos projetos pessoais, desenvolvidos
+para empresas e todo o processo de formação na graduação.</p>
 <h2>Tecnologias usadas</h2>
 
 <p>
