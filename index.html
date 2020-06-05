@@ -43,8 +43,16 @@
 
                         </a>
                     </li>
+
                     <li class="nav-item">
-                        <a class="nav-link product" href=" portfolio.html#Posts ">
+                        <a class="nav-link product" target="_blank" href="https://www.linkedin.com/in/deriomatheus/">
+                            <i class="fab fa-linkedin Portfólio"></i>
+                            <label for="">Linkedin</label>
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link product" title="Em breve" href="#">
                             <i class="fas fa-briefcase Portfólio"></i>
                             <label for="">Serviços</label>
                         </a>
@@ -167,24 +175,19 @@
                         <!--Thank you Section -->
                         <!-- End thank you Section -->
                     </div>
-                    <div class="w3-container w3-card w3-transparent ">
-                        <h2 class="w3-text-theme w3-padding-16 "><i
-                                class="fa fa-user-graduate fa-fw w3-margin-right w3-xxlarge w3-text-red ">
-                            </i>Linkedin</h2>
-                        <div class="w3-container ">
-                            <h5 class="w3-text-theme "><b>Veja mais no:</b></h5>
-                            <h6 class="w3-text-yellow ">
-                                <i class="fab fa-linkedin fa-3x fa-fw w3-margin-right "><a
-                                        href="https://www.linkedin.com/in/deriomatheus/ " target="_blank "
-                                        rel="Curriculo ">Linkedin</a></i>
-                            </h6>
-                            <p>Veja tudo no linkedin, as minhas experiencias, alguns projetos pessoais e desenvolvidos
-                                para empresas e todo o processo de formação na graduação.</p>
-                            <hr>
-                        </div>
-                        <!--Thank you Section -->
-                        <!-- End thank you Section -->
+
+                    <div class="w3-container w3-card w3-transparent w3-margin-top w3-margin-bottom">
+                        <h4><i class="fa fa-angle-double-down "></i>
+                            <strong>Baixe meu CV atualizado: <i class="fa fa-angle-double-down "></i></strong>
+                            <p><a data-toggle="modal" data-target="#curriculocv" aria-hidden="true ">
+                                    <label class="badge badge-warning fa fa-mouse-pointer" style="cursor: pointer;">
+                                        Versão PDF
+                                    </label>
+                                </a>
+                            </p>
+                        </h4>
                     </div>
+
                     <div class="w3-container w3-card w3-transparent w3-margin-bottom ">
                         <h2 class="w3-text-theme w3-padding-16 ">
                             <i class="fa fa-briefcase fa-2x fa-fw w3-margin-right w3-xxlarge w3-text-red ">
@@ -198,7 +201,7 @@
                             <p> Entrega de documentos, criação de documentos via MJdoc, ARs, cartas, Malotes, entre
                                 outros.
                             </p>
-                            <hr> <br>
+                            <hr>
                         </div>
                         <div class="w3-container ">
                             <h5 class="w3-text-theme "><b>Soldado / EB - Exercito Brasileiro</b></h5>
@@ -206,7 +209,7 @@
                                 2015 - Jan 2016
                             </h6>
                             <p>Soldado do Exército Brasileiro.</p>
-                            <hr> <br>
+                            <hr>
                         </div>
                         <div class="w3-container ">
                             <h5 class="w3-text-theme "><b>Monitor / Associação Atlética De Santa Maria</b></h5>
@@ -222,7 +225,6 @@
                                 2017 - Abr 2108
                             </h6>
                             <p>Gestão de Projetos de Rede, Banco de Dados, Aplicação e outros. Projetos e Demandas.</p>
-                            <br>
                         </div>
                         <div class="w3-container ">
                             <h5 class="w3-text-theme "><b>Estágiario de Desenvolvimento PHP / Serpro</b></h5>
@@ -232,7 +234,6 @@
                                     novidades.
                                 </p>
                             </h6>
-                            <br>
                         </div>
                         <div class="w3-container ">
                             <h5 class="w3-text-theme "><b>Estágiario Front-end / Inep</b></h5>
@@ -242,9 +243,8 @@
                                     novidades.
                                 </p>
                             </h6>
-                            <br>
                         </div>
-                        <div class="w3-container ">
+                        <div class="w3-container">
                             <h5 class="w3-text-theme "><b>Assistente de Desenvolvimento PHP / Ministerio da Economia</b>
                             </h5>
                             <h6 class="w3-text-yellow "><i class="fa fa-calendar fa-2x fa-fw w3-margin-right "></i>Fev
@@ -253,17 +253,6 @@
                             <p>Projetos de ouvidoria, criando e dando suporte aos usuários que precisa de soluções que
                                 atenda suas necessidades.
                             </p>
-                            <br>
-                            <h4><i class="fa fa-angle-double-down "></i>
-                                <strong>Baixe meu CV atualizado: <i class="fa fa-angle-double-down "></i></strong>
-                                <p>
-                                    <a href="docs/curriculo6.5TI.pdf " aria-hidden="true " download="Curriculo.pdf ">
-                                        <label class="badge badge-warning fa fa-mouse-pointer ">
-                                            Versão PDF
-                                        </label>
-                                    </a>
-                                </p>
-                            </h4>
                         </div>
                     </div>
                     <!-- End Right Column -->
@@ -273,6 +262,30 @@
             <!-- End Page Container -->
         </div>
         </div>
+
+        <!-- Modal CV -->
+        <div class="modal fade" id="curriculocv" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content bg-dark w3-text-white">
+                    <div class="modal-header">
+                        <h4 class="modal-title text-center"><i id="teste" class="fas fa-file-pdf fa-2x"></i>Curriculo
+                            PDF</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <iframe src="docs/curriculoII.pdf" width="750" height="780" style="border: none;"></iframe>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal"
+                            aria-label="Close">Fechar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Finish CV -->
 
         <!-- Modal Mobile -->
         <div class="modal fade" id="mobile" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
