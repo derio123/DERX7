@@ -1,38 +1,43 @@
-    * {
-        padding: 0;
-        margin: 0;
-        text-decoration: none;
-        list-style: none;
-        box-sizing: border-box;
-    }
-    
-    body {
-        font-family: Arial, Helvetica, sans-serif;
-        color: #334;
-        padding: 0;
-        margin: 0;
-        background: url('../imgs/phone.jpg');
-        background-repeat: inherit;
-        background-size: cover;
-        height: calc(100vh - 70px);
-        font-size: 20px;
-        color: white;
-    }
-    
-    .sec {
-        margin-top: 80px;
-    }
-    
-    img.logo {
-        position: relative;
-        left: 0%;
-        width: 40%;
-        margin-left: 20px !important;
-        /* 50% of your logo width */
-        display: block;
-    }
-    
-    .icon {
-        width: 40%;
-        height: 20px;
-    }
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #334;
+  padding: 0;
+  margin: 0;
+  background: url("../imgs/phone.jpg");
+  background-repeat: inherit;
+  background-size: cover;
+  height: calc(100vh - 70px);
+  font-size: 20px;
+  color: white;
+}
+
+h6 {
+  color: #d2be0e;
+}
+
+.sec {
+  margin-top: 80px;
+}
+
+img.logo {
+  position: relative;
+  left: 0%;
+  width: 40%;
+  margin-left: 20px !important;
+  /* 50% of your logo width */
+  display: block;
+}
+
+.icon {
+  width: 40%;
+  height: 20px;
+}

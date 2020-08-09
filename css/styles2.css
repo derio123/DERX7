@@ -57,3 +57,34 @@
     #test2 {
         color: #ff0000;
     }
+
+    img.profile {
+        width: 98%;
+        border-radius: 100px;
+    }
+
+    #contact {
+        position: relative; margin-top: 0px;
+    }
+
+    .modal label {
+        margin-top: 7px;
+    }
+
+    .modal label img {
+        display: grid;
+        margin: 7px;
+        width: 14rem;
+
+    }
+
+    .modal label a {
+        justify-items: center;
+        justify-content: start;
+        font-size: 20px;
+        text-decoration: none;
+    }
+    
+    a {
+        text-decoration: none;
+    }
