@@ -30,13 +30,13 @@ para empresas e todo o processo de formação na graduação.</p>
 <h3>Nota de Versão</h3>
 <ul>
 <li>
-    <p>Em breve Lançamento da Versão V_11.2(Atualmente)</p>
+    <p>Lançamento da Versão V_12(Em breve)</p>
+    <hr>
+    <p>Versão V_11.2(Atualmente)</p>
     <p>Veja em:<a href="https://derio123.github.io/DERX7/" target="_blank">DERX7</a></p>
     <hr>
-    <p>Em breve Lançamento da Versão V_11(anterior 2)</p>
-    <p>Veja em:<a href="https://derio123.github.io/DERX7/" target="_blank">DERX7</a></p>
+    <p>Versão V_11(anterior 2)</p>
     <hr>
     <p>Versão V_10(Anterior)</p>
-    <p>Veja em:<a href="https://derio123.github.io/DERX7/" target="_blank">DERX7</a></p>
 </li>
 </ul>
