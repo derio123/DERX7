@@ -1,5 +1,5 @@
     .product {
-        border: 1px solid #ffff00;
+        border: 1px solid #0062cc;
         background-color: #FF4500;
         width: 150px;
         height: 20px;
@@ -46,16 +46,16 @@
         margin-bottom: 20px;
     }
     
-    .fas {
-        color: #ffff00;
+    .fas .fab .fa {
+        color: #2196f3;
     }
     
     #teste {
-        color: #FF4500;
+        color: #2196f3;
     }
     
     #test2 {
-        color: #ff0000;
+        color: #2196f3;
     }
 
     img.profile {

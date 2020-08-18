@@ -16,8 +16,7 @@ body {
   background-repeat: inherit;
   background-size: cover;
   height: calc(100vh - 70px);
-  font-size: 20px;
-  color: white;
+  font-size: 22px;
 }
 
 h6 {
@@ -39,5 +38,5 @@ img.logo {
 
 .icon {
   width: 40%;
-  height: 20px;
+  height: 40px;
 }
