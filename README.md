@@ -17,7 +17,7 @@ para empresas e todo o processo de formação na graduação.</p>
 <hr>
 
 <h3>Novidades</h3>
-<img src="imgs/PortfolioAutal.png">
+<img src="imgs/Projetos/PortfolioAutal.png">
 <ul>
 <li>
     <p>Icones do Font Awesome</p>
