@@ -12,14 +12,14 @@
         text-align: center;
         float: inline-start;
     }
-    
+
     .topo {
         position: fixed;
         top: 0;
         left: 0;
         right: 0;
     }
-    
+
     a.product i {
         padding-bottom: 1px;
         padding-left: 0px;
@@ -30,14 +30,14 @@
         font-size: 15px;
         text-align: center;
     }
-    
+
     h1 {
         text-align: center;
         margin: 0;
         padding-top: 5px;
         font-size: 3em;
     }
-    
+
     .fundo {
         background-position: center;
         height: 1000px;
@@ -45,26 +45,27 @@
         border-bottom: 3px solid rgb(14, 148, 201);
         margin-bottom: 20px;
     }
-    
+
     .fas .fab .fa {
         color: #2196f3;
     }
-    
+
     #teste {
         color: #2196f3;
     }
-    
+
     #test2 {
         color: #2196f3;
     }
 
     img.profile {
-        width: 98%;
-        border-radius: 100px;
+        width: 70%;
+        border-radius: 50% !important;
     }
 
     #contact {
-        position: relative; margin-top: 0px;
+        position: relative;
+        margin-top: 0px;
     }
 
     .modal label {
@@ -84,7 +85,7 @@
         font-size: 20px;
         text-decoration: none;
     }
-    
+
     a {
         text-decoration: none !important;
     }
